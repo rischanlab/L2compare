@@ -1,0 +1,3 @@
+[submodule "resources/l2beat"]
+	path = resources/l2beat
+	url = https://github.com/l2beat/l2beat.git
