@@ -49,3 +49,6 @@ This report identifies leading academic journals in finance and economics (class
 | Downside Risk and the Cross-Section of Cryptocurrency Returns | Wei Zhang; Yi Li; Xiong Xiong; Pengfei Wang | 2021 | Journal of Banking & Finance | This paper investigates whether investors can earn higher profits by holding cryptocurrencies with higher downside risk... | [DOI](https://doi.org/10.1016/j.jbankfin.2021.106205) |
 | Trading Volume and Liquidity in Cryptocurrency Markets | Daniele Bianchi; Mykola Babiak; Alexander Dickerson | 2022 | Journal of Banking & Finance | Returns from liquidity provision are concentrated in markets with lower activity... | [DOI](https://doi.org/10.1016/j.jbankfin.2022.106547) |
 | On the Performance of Cryptocurrency Funds | Daniele Bianchi; Mykola Babiak | 2022 | Journal of Banking & Finance | This study investigates the performance of investment funds specializing in cryptocurrency markets... | [DOI](https://doi.org/10.1016/j.jbankfin.2022.106467) |
+
+
+https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights
