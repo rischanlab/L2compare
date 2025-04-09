@@ -52,3 +52,5 @@ When developers or companies plan to build decentralized applications (DApps) on
 **Base vs. Arbitrum vs. Optimism: Who Will Win the L2 War? Analysis of Reach, Retention, and Revenue**
 
 [Read the article here](https://medium.com/@diteliti/base-vs-arbitrum-vs-optimism-who-will-win-the-l2-war-analysis-of-reach-retention-and-revenue-e7a87a1cc76f)
+
+### My recent paper: [https://arxiv.org/html/2503.09165v1](https://arxiv.org/html/2503.09165v1)
