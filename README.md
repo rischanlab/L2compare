@@ -53,4 +53,13 @@ When developers or companies plan to build decentralized applications (DApps) on
 
 [Read the article here](https://medium.com/@diteliti/base-vs-arbitrum-vs-optimism-who-will-win-the-l2-war-analysis-of-reach-retention-and-revenue-e7a87a1cc76f)
 
-### My recent paper: [https://arxiv.org/html/2503.09165v1](https://arxiv.org/html/2503.09165v1)
+### My Recent Preprint Papers on Blockchain
+
+#### 1. Blockchain Data Analytics: Review and Challenges  
+📄 [View on arXiv](https://arxiv.org/html/2503.09165v1)
+
+#### 2. AI-Based Crypto Tokens: The Illusion of Decentralized AI?  
+📄 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241453)  
+📄 [ResearchGate](https://www.researchgate.net/publication/391492154_AI-Based_Crypto_Tokens_The_Illusion_of_Decentralized_AI_Preprint)  
+📄 [OSF Preprints](https://osf.io/preprints/osf/yrzj5_v1)
+
