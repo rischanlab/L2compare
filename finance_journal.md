@@ -52,3 +52,4 @@ This report identifies leading academic journals in finance and economics (class
 
 
 https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights
+https://www.keaipublishing.com/en/journals/the-journal-of-finance-and-data-science/
